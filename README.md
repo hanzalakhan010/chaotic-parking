@@ -1,6 +1,6 @@
 # Parking Management System
 
-A console-based parking management system built in C++ for managing student vehicle parking on campus. This project was developed as a Computer Engineering Project (CEP).
+A console-based parking management system built in C++ for managing student vehicle parking on campus. This project was developed as a Complex Engineering Project (CEP).
 
 ## Features
 
